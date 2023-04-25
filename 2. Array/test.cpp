@@ -1,12 +1,18 @@
 #include<bits/stdc++.h>
 #include<vector>
 #include<algorithm>
-
 using namespace std;
 
-const int N = 0;
+class Solution {
+	public:
+	void display(int n) {
+		cout<<n<<endl;
+	}
+};
 
 int main() {
 	
+	Solution s;
+	s.display(5);
 	return 0;
 }
