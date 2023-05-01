@@ -17,7 +17,7 @@ class Solution {
                 // update the largest value with i
                 largest = i;
             } 
-            // if the i-h iteration doesn't match with arr[largest], loop-in
+            // if the i-th iteration doesn't match with arr[largest], loop-in
             else if(arr[i] != arr[largest]) {
                 // if res remains -1 or the i-th index is greater than res index, loop-in
                 if(res == -1 || arr[i]>arr[res]) {

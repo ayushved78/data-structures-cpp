@@ -11,8 +11,9 @@ class Solution {
 };
 
 int main() {
-	
+	int n;
+	cin>>n;
 	Solution s;
-	s.display(5);
+	s.display(n);
 	return 0;
 }
