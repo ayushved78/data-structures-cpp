@@ -1,0 +1,82 @@
+Last login: Wed May 31 00:32:05 on ttys000
+ayushsingh@Ayushs-MacBook-Pro ~ % brew --version
+zsh: command not found: brew
+ayushsingh@Ayushs-MacBook-Pro ~ % homebrew
+zsh: command not found: homebrew
+ayushsingh@Ayushs-MacBook-Pro ~ % brew
+zsh: command not found: brew
+ayushsingh@Ayushs-MacBook-Pro ~ % 
+ayushsingh@Ayushs-MacBook-Pro ~ % 
+ayushsingh@Ayushs-MacBook-Pro ~ % 
+ayushsingh@Ayushs-MacBook-Pro ~ % ls
+Applications	Documents	Library		Music		Public
+Desktop		Downloads	Movies		Pictures
+ayushsingh@Ayushs-MacBook-Pro ~ % git --version
+git version 2.39.2 (Apple Git-143)
+ayushsingh@Ayushs-MacBook-Pro ~ % brew --version
+zsh: command not found: brew
+ayushsingh@Ayushs-MacBook-Pro ~ % brew uninstall
+zsh: command not found: brew
+ayushsingh@Ayushs-MacBook-Pro ~ % 
+ayushsingh@Ayushs-MacBook-Pro ~ % 
+ayushsingh@Ayushs-MacBook-Pro ~ % 
+ayushsingh@Ayushs-MacBook-Pro ~ % 
+ayushsingh@Ayushs-MacBook-Pro ~ % cd Desktop/Codes/cpp
+ayushsingh@Ayushs-MacBook-Pro cpp % ls
+data-structures-cpp
+ayushsingh@Ayushs-MacBook-Pro cpp % cd data-structures-cpp
+ayushsingh@Ayushs-MacBook-Pro data-structures-cpp % ls
+0. Basics	2. Array	README.md
+ayushsingh@Ayushs-MacBook-Pro data-structures-cpp % mkdir test.cpp
+ayushsingh@Ayushs-MacBook-Pro data-structures-cpp % ls
+0. Basics	2. Array	README.md	test.cpp
+ayushsingh@Ayushs-MacBook-Pro data-structures-cpp % git init
+Reinitialized existing Git repository in /Users/ayushsingh/Desktop/Codes/cpp/data-structures-cpp/.git/
+ayushsingh@Ayushs-MacBook-Pro data-structures-cpp % git add .
+ayushsingh@Ayushs-MacBook-Pro data-structures-cpp % git commit -m "macOS setup"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+ayushsingh@Ayushs-MacBook-Pro data-structures-cpp % nano test.txt
+
+  UW PICO 5.09                                                                       File: test.txt                                                                       Modified  
+
+safas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help                   ^O WriteOut                   ^R Read File                  ^Y Prev Pg                    ^K Cut Text                   ^C Cur Pos                    
+^X Exit                       ^J Justify                    ^W Where is                   ^V Next Pg                    ^U UnCut Text                 ^T To Spell                  
