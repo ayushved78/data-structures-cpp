@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<iostream>
 #include<vector>
 #include<algorithm>
 using namespace std;
@@ -11,9 +11,10 @@ class Solution {
 };
 
 int main() {
-	int n;
-	cin>>n;
+
 	Solution s;
-	s.display(n);
+	int n; cin>>n;
+	cout<<n;
+	cout<<"\n"<<"macOS configured";
 	return 0;
 }
